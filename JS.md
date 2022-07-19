@@ -13,4 +13,4 @@ JS_Marathon Course Assignment Day 1
 6.JavaScript is Single-threaded or Multi-threaded.
 ->single-threaded.
 7.Explain DOM in your own word.
-->DOM is a programming API.
+->DOM is a programming API...
